@@ -1,6 +1,6 @@
 # Modern UI/UX Gericht Restaurant Site
 
-Live Site ()
+Live Site (https://kwamasali-gericht-restaurant.netlify.app)
 Link to the figma design file (https://www.figma.com/file/bUGIPys15E78w9bs1l4tgS/HooBank?node-id=0%3A1&t=xLuAYAKb1it6YkyX-0)
 
 ## Introduction
